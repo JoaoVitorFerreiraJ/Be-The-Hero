@@ -8,11 +8,11 @@
 
 ### Confira as imagens do app em ReactJS
 
-####(1/3)
+#### (1/3)
 ![](https://github.com/JoaoVitorFerreiraJ/be-the-hero/blob/master/SemanaOministack11.PNG)
 
-####(2/3)
+#### (2/3)
 ![](https://github.com/JoaoVitorFerreiraJ/Be-The-Hero/blob/master/SemanaOministack11(2).PNG)
 
-####(3/3)
+#### (3/3)
 ![](https://github.com/JoaoVitorFerreiraJ/Be-The-Hero/blob/master/SemanaOministack11(3).PNG)
